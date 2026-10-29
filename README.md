@@ -45,7 +45,7 @@ Before you begin, make sure you have:
 
 ## 📦 Step 1: Clone the Repository  
 ```sh
-git clone https://github.com/KhushiRajurkar/Movie_Logs.git
+git clone https://github.com/Kaiye-08/Movie_Logs.git
 cd Movie_Logs
 ```
 ## 📥 Step 2: Install Dependencies
